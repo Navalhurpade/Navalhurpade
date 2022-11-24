@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Navalhurpade
-- 👀 I’m interested in React, React native, nodejs, phython, java
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in React, React native, nodejs
 - 📫 Reach me at Navalhurpade123@gmail.com 
 
 <!---
