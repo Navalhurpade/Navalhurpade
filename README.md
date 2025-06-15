@@ -1,4 +1,4 @@
-## Full Stack & React Native Developer | Passionate about building scalable apps & clean UIs | Node.js, React, React Native, Firebase, MongoDB | Always learning 🚀
+#### Full Stack & React Native Developer | Passionate about building scalable apps & clean UIs | Node.js, React, React Native, Firebase, MongoDB | Always learning 🚀
 
 💻 Full Stack Developer (MERN & React Native)
 ⚙️ Backend + Mobile UIs | Clean code, scalable systems
